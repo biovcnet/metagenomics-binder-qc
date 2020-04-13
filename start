@@ -1,10 +1,12 @@
 #!/bin/bash
 
 # retrieve notebooks and place correctly in session
-# git clone https://github.com/biovcnet/topic-metagenomics.git
+git clone https://github.com/biovcnet/topic-metagenomics.git
 
-mv topic-metagenomics/* ./
-rm -rf topic-metagenomics
+# mv topic-metagenomics/* ./
+# rm -rf topic-metagenomics
+
+cd topic-metagenomics
 
 # this must be last line according to 
 # https://repo2docker.readthedocs.io/en/latest/config_files.html#start-run-code-before-the-user-sessions-starts
