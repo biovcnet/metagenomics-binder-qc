@@ -6,5 +6,4 @@
   - fastqc
   - trimmomatic
   - fastp
-  - kraken2
   - krona
