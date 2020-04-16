@@ -18,7 +18,6 @@ dependencies:
   - fastp
 #lesson 2
   - krona
-  - kraken2
 #assembly
 #  - spades
 #  - megahit
