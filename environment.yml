@@ -18,6 +18,8 @@ dependencies:
   - fastp
 #lesson 2
   - krona
+#lesson 3
+  - sourmash
 #assembly
 #  - spades
 #  - megahit
