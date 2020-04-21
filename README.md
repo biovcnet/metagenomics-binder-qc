@@ -7,3 +7,4 @@
   - trimmomatic
   - fastp
   - krona
+  - sourmash
